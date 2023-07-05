@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://AdaSoftLTD.co.uk/sitemap-index.xml
